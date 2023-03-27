@@ -1,1 +1,1 @@
-# ai2023
+# Artificial Intelligence Class 2023
