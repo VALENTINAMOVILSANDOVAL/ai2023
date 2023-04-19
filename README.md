@@ -8,7 +8,7 @@ Content:
 
 Non supervised
 
-- Neuronal Networks
+- Neural Networks
   - Perceptron
   - Multi Layer Perceptron (MLP)
   - Exam 1
