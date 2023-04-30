@@ -20,7 +20,9 @@ The perceptron is like a computer's version of a real brain cell. It's a super i
 
 The brain's neural network is basically a cluster of nerve cells called neurons. These neurons receive electrical signals from their neighboring neurons through dendrites. Once the sum of these signals reaches a certain level, the neuron shoots out its own electrical signal via axons, which are connected to other neurons' dendrites. The connection point between two neurons is called a synapse, and usually, each neuron connects to around 7,000 of them. When we learn new things, the synaptic strength between the neurons representing those things becomes stronger, in accordance with Hebb's rule (1949), which states that "Cells that fire together wire together".
 
-## Math for Nerds: Basic Fundamentals of Neural Networks (is still a work in progress)
+## Math for Nerds: Basic Fundamentals of Neural Networks
+
+(is still a work in progress)
 
 The Perceptron Model is a simpler artificial version of a biological neuron. It's got $m$ binary inputs, labeled as $x_1, ..., x_m$, which basically means signals coming from neighboring neurons. The perceptron processes these signals by doing some math magic, where each input is multiplied by a weight $w_i$ that represents the connection strength. This eventually leads to a single binary output, labeled as $o$, which tells us if the perceptron is "firing" or not.
 
