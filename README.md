@@ -4,7 +4,7 @@ Hey there!
 
 Welcome to my AI hub! I've got a whole bunch of cool AI stuff for you to check out. The idea behind this is to share what I've been learning and get some feedback on my work. So let's dive in and see what we can discover together!
 
-- Valentina
+-Valentina
 
 # Content
 
@@ -35,9 +35,9 @@ So basically, we have the inputs, the weights, the net input ($z$), the activati
 
 
 
-## Referencias
+## References
 
-[1] Niti Sharma. (2018, March 2). Perceptrons: The First Neural Network Model. Towards Data Science. https://towardsdatascience.com/perceptrons-the-first-neural-network-model-8b3ee4513757
+
 
 
 
