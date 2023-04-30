@@ -22,7 +22,7 @@ The brain's neural network is basically a cluster of nerve cells called neurons.
 
 ## Math for Nerds: Basic Fundamentals of Neural Networks
 
-(is still a work in progress)
+(This section is still a work in progress)
 
 The Perceptron Model is a simpler artificial version of a biological neuron. It's got $m$ binary inputs, labeled as $x_1, ..., x_m$, which basically means signals coming from neighboring neurons. The perceptron processes these signals by doing some math magic, where each input is multiplied by a weight $w_i$ that represents the connection strength. This eventually leads to a single binary output, labeled as $o$, which tells us if the perceptron is "firing" or not.
 
