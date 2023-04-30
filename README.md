@@ -18,9 +18,8 @@ A biological neural network, found in the human brain, is made up of nerve cells
 
 In Figure 1, there's a graphic analogy between the perceptron model and a real biological neuron.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/50112524/235356003-f4bc2bc8-95d6-4ba4-8c66-2f012f175639.png" alt="Perceptron Model">
-</p>
+
+![Perceptron Model](https://user-images.githubusercontent.com/50112524/235356003-f4bc2bc8-95d6-4ba4-8c66-2f012f175639.png)
 
 
 
