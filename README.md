@@ -16,14 +16,15 @@ A biological neural network, found in the human brain, is made up of nerve cells
 
 ## The Perceptron Model
 
-Check out Figure 1, it's like a graphic comparison between the perceptron model, which has $m$ binary inputs denotated by $x_1, ..., x_m$, and it outputs a single binary value denoted by $o$ that indicates if the perceptron is “firing” or not and a real-life biological neuron.
+In Figure 1, there's a graphic analogy between the perceptron model and a real biological neuron.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50112524/235356003-f4bc2bc8-95d6-4ba4-8c66-2f012f175639.png" alt="Perceptron Model">
+</p>
 
 
 
 
-
-
-![image](https://user-images.githubusercontent.com/50112524/235355786-3b86e7e8-50f0-4fdb-8ae7-1b3ff812ac69.png)
 
 
 
