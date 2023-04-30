@@ -6,37 +6,31 @@ Let's do it!
 
 # Content
 
-Supervised models:
-- Neural networks
+- Neural Nuggets: Bite-sized Brainy Bits
 
-# Supervised models
+# Neural Nuggets: Bite-sized Brainy Bits
 
-## Neural Networks
+## Meet the Perceptron
 
-### The Perceptron
+The perceptron is like a computer's version of a real brain cell. It's a super important model in AI because it was the first neural network that we could actually use for computing. So, it's like the OG neural network, you know? It's kind of like a baby step towards making machines that can think and learn like us.
 
-The perceptron is a computational model that was developed based on the structure and function of a biological neuron. It is considered to be the first neural network model used for computation and served as a significant breakthrough in the field of artificial intelligence.
+## How Your Brain Actually Works: A Peek into Neural Networks
 
-#### Biological Neural Works
+The brain's neural network is basically a cluster of nerve cells called neurons. These neurons receive electrical signals from their neighboring neurons through dendrites. Once the sum of these signals reaches a certain level, the neuron shoots out its own electrical signal via axons, which are connected to other neurons' dendrites. The connection point between two neurons is called a synapse, and usually, each neuron connects to around 7,000 of them. When we learn new things, the synaptic strength between the neurons representing those things becomes stronger, in accordance with Hebb's rule (1949), which states that "Cells that fire together wire together".
 
-A brain's neural network is basically a bunch of nerve cells called neurons. These neurons get electrical signals from their neighboring neurons through dendrites. When the sum of these signals gets high enough, the neuron shoots out its own electrical signal via axons, which are hooked up to other neurons' dendrites. The connection point between two neurons is called a synapse, and usually each neuron hooks up to around 7,000 of them. When we learn new things, the synaptic strength between the neurons representing those things gets stronger, following Hebb's rule (1949), which says "Cells that fire together wire together".
+## Math for Nerds: Basic Fundamentals of Neural Networks (is still a work in progress)
 
+The Perceptron Model is a simpler artificial version of a biological neuron. It's got $m$ binary inputs, labeled as $x_1, ..., x_m$, which basically means signals coming from neighboring neurons. The perceptron processes these signals by doing some math magic, where each input is multiplied by a weight $w_i$ that represents the connection strength. This eventually leads to a single binary output, labeled as $o$, which tells us if the perceptron is "firing" or not.
 
-#### The Mathematical Model
+But wait, there's more! To make sure our inputs $x_1, ..., x_m$ (which are basically the features in our data) match up with the output $y$ (which is the label), we need a special input neuron called the bias neuron. Its connection weight is either shown as $b$ or $w_0$, and it always gives an output value of 1 (if the net input goes beyond a specific threshold value $\theta$).
 
-The Perceptron Model is a simpler version of a biological neuron and was first introduced by Frank Rosenblatt way back in 1957. Take a look at the figure below, it gives you a side-by-side comparison of the structure of a biological neuron and an artificial neuron. Oh, and by the way, the perceptron has m binary inputs labeled as $x_1,..., x_m$. These inputs come from neighboring neurons and indicate the signals received. And finally, the perceptron produces a single binary output marked as $o$ which shows whether it's "firing" or not.
-
-
-![image](https://user-images.githubusercontent.com/50112524/235356715-f329cd01-2b53-4e7d-bb7c-a3f993ae7acb.png)
+So basically, we have the inputs, the weights, the net input ($z$), the activation function $f(z)$, and the output ($o$). A picture that shows all of this is given below:
 
 
 
-### To consider:
 
-The perceptron first computes the weighted sum of its incoming signals, by multiplying each input by its corresponding weight. This weighted sum is often called
-net input and denoted by $z$, which is defined as:
 
-$z=\sum_{i=1}^{m} \omega_i x_i$
+
 
 
 ## Referencias
