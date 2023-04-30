@@ -6,16 +6,21 @@ Let's do it!
 
 # Content
 
-# The Perceptron
+Supervised models:
+- Neural networks
+
+# Neural Networks
+
+## The Perceptron
 
 The perceptron is a computational model that was developed based on the structure and function of a biological neuron. It is considered to be the first neural network model used for computation and served as a significant breakthrough in the field of artificial intelligence.
 
-## Biological Neural Works
+### Biological Neural Works
 
 A brain's neural network is basically a bunch of nerve cells called neurons. These neurons get electrical signals from their neighboring neurons through dendrites. When the sum of these signals gets high enough, the neuron shoots out its own electrical signal via axons, which are hooked up to other neurons' dendrites. The connection point between two neurons is called a synapse, and usually each neuron hooks up to around 7,000 of them. When we learn new things, the synaptic strength between the neurons representing those things gets stronger, following Hebb's rule (1949), which says "Cells that fire together wire together".
 
 
-## The Perceptron Model
+### The Mathematical Model
 
 The Perceptron Model is a simpler version of a biological neuron and was first introduced by Frank Rosenblatt way back in 1957. Take a look at the figure below, it gives you a side-by-side comparison of the structure of a biological neuron and an artificial neuron. Oh, and by the way, the perceptron has m binary inputs labeled as $x_1,..., x_m$. These inputs come from neighboring neurons and indicate the signals received. And finally, the perceptron produces a single binary output marked as $o$ which shows whether it's "firing" or not.
 
