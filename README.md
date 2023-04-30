@@ -1,8 +1,10 @@
-# Artificial Intelligence EAFIT
+# AI Mindset: Insights from EAFIT's Course on Artificial Intelligence
 
-Hey, welcome! This is my AI repository. I've got a bunch of AI algorithms lined up for ya. The whole point of this is to share the knowledge I've been gathering and get some feedback on my work.
+Hey there! 
 
-Let's do it!
+Welcome to my AI hub! I've got a whole bunch of cool AI stuff for you to check out. The idea behind this is to share what I've been learning and get some feedback on my work. So let's dive in and see what we can discover together!
+
+- Valentina
 
 # Content
 
