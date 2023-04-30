@@ -31,6 +31,16 @@ The Perceptron Model is a simpler version of a biological neuron and was first i
 
 
 
+### To consider:
+
+The perceptron first computes the weighted sum of its incoming signals, by multiplying each input by its corresponding weight. This weighted sum is often called
+net input and denoted by $z$:
+
+\begin{equation}
+    E = mc^2
+\end{equation}
+
+
 
 
 
