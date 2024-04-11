@@ -8,7 +8,9 @@ Welcome to my AI hub! I've got a whole bunch of cool AI stuff for you to check o
 
 # Content
 
-- Neural Nuggets: Bite-sized Brainy Bits
+- Inference: Fuzzy Logic
+- Unsupervised Learning: Klustering
+- Supervised Learning: Neural Nuggets: Bite-sized Brainy Bits
 
 # Neural Nuggets: Bite-sized Brainy Bits
 
